@@ -1,6 +1,6 @@
 # Welcome to Off Hours Series!
 
-![alt text](https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/26746721/aa6405575af147f69cd9251e462f8c77/1.jpg?token-time=1564876800&token-hash=Yca5CfbRbSVyU-CepX60hhNTf84tFDS2IPjNNY9f3zc%3D "Off Hour Logo")
+![](https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/26746721/aa6405575af147f69cd9251e462f8c77/1.jpg?token-time=1564876800&token-hash=Yca5CfbRbSVyU-CepX60hhNTf84tFDS2IPjNNY9f3zc%3D =800x)
 
 You can find SB merch [here](https://smallbeans.bigcartel.com/).
 
