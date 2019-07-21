@@ -1,4 +1,4 @@
-# Welcome to Off Hours Series!
+# Welcome to Off Hours Series Website!
 
 Off Hours is a series about a group of friends who often find themselves sitting around dissecting pop culture.
 
