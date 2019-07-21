@@ -1,43 +1,15 @@
----
-youtubeId: 'qcls41KaMEs'
----
+### If Your Life Got Rebooted, What Kind Would It Be?
 
-## Welcome to GitHub Pages
+Katy, Maggie, and Daniel try to cheer Michael up by sharing a meal of vodka and beans, and discussing what meta-genre of film reboot would make for the best life, if you had to reboot yours. Leave your own picks in the comments! And as always, please show your nerd-work.
 
-{% include youtubePlayer.html id='qcls41KaMEs' %}
+{% include youtubePlayer.html id='sdl3e4AzpF8' %}
 
-You can use the [editor on GitHub](https://github.com/swapsha96/offhourspodcast/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Published on Jun 3, 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Characters Who Secretly Belong To Other Movie Universes
 
-### Markdown
+In this episode, Greg, Michael and Maggie are disturbed to find more than one Cody in their midst, which leads to a conversation about movie characters who make more sense in the context of other movies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{% include youtubePlayer.html id='t5Z_4B542Is' %}
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swapsha96/offhourspodcast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Published on Jul 8, 2019
