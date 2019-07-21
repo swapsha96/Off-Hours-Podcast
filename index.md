@@ -6,6 +6,8 @@ Off Hours is a series about a group of friends who often find themselves sitting
 
 You can find SB merch [here](https://smallbeans.bigcartel.com/).
 
+---
+
 ## If Your Life Got Rebooted, What Kind Would It Be?
 
 Katy, Maggie, and Daniel try to cheer Michael up by sharing a meal of vodka and beans, and discussing what meta-genre of film reboot would make for the best life, if you had to reboot yours. Leave your own picks in the comments! And as always, please show your nerd-work.
@@ -23,5 +25,3 @@ In this episode, Greg, Michael and Maggie are disturbed to find more than one Co
 {% include youtubePlayer.html id='t5Z_4B542Is' %}
 
 _Published on Jul 8, 2019_
-
----
