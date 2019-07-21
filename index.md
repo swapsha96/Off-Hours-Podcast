@@ -1,6 +1,10 @@
+---
+youtubeId: 'qcls41KaMEs'
+---
+
 ## Welcome to GitHub Pages
 
-{% include youtube_player.html id=FZT8ix-lfXs %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 You can use the [editor on GitHub](https://github.com/swapsha96/offhourspodcast/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
