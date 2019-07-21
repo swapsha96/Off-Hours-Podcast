@@ -1,3 +1,7 @@
+# Welcome to Off Hours Series!
+
+You can find SB merch [here](https://smallbeans.bigcartel.com/).
+
 ## If Your Life Got Rebooted, What Kind Would It Be?
 
 Katy, Maggie, and Daniel try to cheer Michael up by sharing a meal of vodka and beans, and discussing what meta-genre of film reboot would make for the best life, if you had to reboot yours. Leave your own picks in the comments! And as always, please show your nerd-work.
